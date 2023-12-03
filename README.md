@@ -1,2 +1,1 @@
-# rsschool-cv 
-new repo rs-school-cv
+https://Ddonec.github.io/rsschool-cv/cv
